@@ -1,11 +1,14 @@
-# Radar GitHub Action
+# radar GitHub Action
 The GitHub action to add [radar](https://github.com/auditware/radar) into your workflow.
 
 For more information check the main repository: https://github.com/auditware/radar
 
 ## Usage
+
+`.github/workflows/radar.yml`
+
 ```yaml
-name: Radar Static Analysis
+name: radar Static Analysis
 on: [push]
 jobs:
   analyze:
