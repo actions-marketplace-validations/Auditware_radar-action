@@ -45,4 +45,4 @@ jobs:
 | `ignore`              | Severities to be ignored (e.g. low,medium)  | `false`  |         |
 
 
-Experimental, use at your own risk. for support reach out to the Audit Wizard [Discord](https://discord.gg/8PTTMd96p4).
+Use at your own risk. for support reach out to the Auditware team at [Discord](https://discord.gg/8PTTMd96p4).
