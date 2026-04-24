@@ -1,6 +1,6 @@
 name: 'radar-action'
 
-description: 'Solana static analysis of anchor rust programs using radar'
+description: 'Static analysis of rust, anchor, stylus and solidity programs using radar'
 
 inputs:
   path:  
